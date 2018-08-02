@@ -1,2 +1,2 @@
 # Convert-to-txt
-Convert files to txt format
+Convert all files with specific format in a directory to txt format
